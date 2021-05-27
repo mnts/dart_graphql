@@ -11,7 +11,7 @@ dependencies:
   build_runner: ^1.0.0
 
   dart_style: ^1.0.0
-  build: ^1.0.0
+  build:
   async: ^2.0.0
   http: ^0.13.0
   meta: ^1.0.0
